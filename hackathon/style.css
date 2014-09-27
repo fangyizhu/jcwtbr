@@ -1,0 +1,15 @@
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+body {
+    background-image: url('image001.jpg');
+    max-width: 100%;
+}
+
+form { 
+margin: 0 auto; 
+width:250px;
+}
